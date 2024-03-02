@@ -11,6 +11,7 @@
  * @see core/install.php
  * @see core/rebuild.php
  * @see core/modules/statistics/statistics.php
+* test for logging purposes
  */
 
 return require __DIR__ . '/vendor/autoload.php';
